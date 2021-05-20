@@ -52,7 +52,6 @@ continuous.
    ![alt text](https://github.com/petergeorge649/US-Income-Distribution/blob/main/png/race.png)
 
   **Sex**, the sex variable was also important in the study, as it provided results that was managed to inform the objectives. The data set from kaggle revealed women are paid less than men. To dig in details the data set was enhanced to see is what in happening curently when it comes to gender income gap. The data provided income information about male and female in all USA states. This also confirmed the results of the firts data set that women are paid less than men in all USA states. For example [source](https://blog.dol.gov/2021/03/19/5-facts-about-the-state-of-the-gender-pay-gap#:~:text=Women%20earn%2082%20cents%20for,for%20many%20women%20of%20color) Bureau of Labor Statistics data, in 2020 revealed that women’s yearly earnings were 82.3% of men’s, and the interval is very high when compared to women of color . Also **Relationship** revealed that husband earn more 50k annually than the rest others were wife , own-child, Not-in-family, Other-relative, Unmarried.
-  ![alt text](https://github.com/petergeorge649/US-Income-Distribution/blob/main/png/Screen%20Shot%202021-05-20%20at%209.52.55%20PM.png)
 
 **Capital-gain** and **Capital-loss** were also important variables in the study.**Hours-per-week** many individuals who work 40 hours confirmed to be earning more than 50k annaully than the rest.
 
@@ -76,11 +75,13 @@ Tableau visualization for this project can be found under this link;
 Logistic regression and Decision tree models helped to solve the classification problem. Confusion matrix Python was used to check the accurancy of the model.Confusion matrixwas useful since it gives direct comparisons of values such as True Positives, False Positives, True Negatives and False Negatives.Because the data was imbalanced SMOTE (Synthetic Minority Over-sampling Technique) was applied to get the rid of the imbalanced data. Furthermore,ROC (Receiver operating characteristic) was applied to check the accuracy of the model. 
 
 ## References
-Data
-Image
-Code
-Tableau
+**[csv](https://github.com/petergeorge649/US-Income-Distribution/tree/main/csv)**
 
+**[png](https://github.com/petergeorge649/US-Income-Distribution/tree/main/png)**
+
+**[code](https://github.com/petergeorge649/US-Income-Distribution/tree/main/code)**
+
+**[pywedge charts](https://github.com/petergeorge649/US-Income-Distribution/tree/main/pywedge%20charts)**
 
 
 
