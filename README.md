@@ -5,36 +5,23 @@
 ![alt text](https://github.com/Bunmi-Haastrup/Hermione-granger/blob/main/image.png)
        𝒫𝒾𝒸𝓉𝓊𝓇𝑒 𝓈𝑜𝓊𝓇𝒸𝑒:𝐿𝒶𝓃𝑔𝒶𝓃.𝒸𝑜𝓂, 𝑀𝒶𝓅 𝓈𝑜𝓊𝓇𝒸𝑒: 𝒯𝒶𝒷𝓁𝑒𝒶𝓊
       
-# May 2021
-Exploring, Wrangling, Visualisation and Analysis of USA Income Distribution Data.
+# Exploring, Wrangling, Visualisation and Analysis of USA Income Distribution Data.
 
-# Content
+# Contents
 
-*[Project Outline](#project-outline)
-
-*[Scenario](#scenario)
-
-*[Objective](#objective)
-
-*[Variables-description](#variables-description)
-
-*[Data](#data)
-
-*[Database](#database)
-
-*[Visualisation](#visualisation)
-
-*[Conclusion](#conclusion)
+-[Project Outline](#project-outline)
+-[Scenario](#scenario)
+-[Objective](#objective)
+-[Variables-description](#variables-description)
+-[Data](#data)
+-[Database](#database)
+-[Visualisation](#visualisation)
+-[Conclusion](#conclusion)
 
 # Project Outline
-The project is about predicting people's income above 50k annually in the USA.Observation was mainly from people with different working class, education, education numbers attended,race,marital status, occupation, relationship, sex, capital gain, capital loss, native country, hours per week. The project started by importing the data from USA Labour Bufor labour bu
-
-The project started by building a model that will predict the price of a house based on features provided in the dataset. The characteristics of the houses was also shown using some business intelligence tool such as Tableau. Some of iteretsing questions were answered through the assist of SQL in understanding the data challenge.
+The project is about predicting people's income above 50k annually in the USA.Observation was mainly from people with different working class, education, education numbers attended,race,marital status, occupation, relationship, sex, capital gain, capital loss, native country, hours per week. The project started by importing the data.Logistic regression and Decision tree regression was used for the prediction.
 
 ![alt text](https://github.com/petergeorge649/US-Income-Distribution/blob/main/png/Peter.png)
-
-# Scenario
-You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
 
 # Objectives
 1. Can features predict if someone earns annual Income of above 50k?
