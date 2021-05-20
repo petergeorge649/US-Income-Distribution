@@ -59,8 +59,7 @@ Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialt
 7.Relationship
 Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried.
 
-8.Race
-White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black.
+8. Race, The study revealed that there is huge income gap based on race. From the study the data exposed that whites rae paid relative higher compare to other races.While blacks and other races income is at the bottom. The findings are also confirmed by other studies.For example Pew research center in 2020 showed that, the black-white income gap in the US is relative higher and remained that way for sometime now, and the income gap continues to grow further. For example, $23,800 in 1970 to around $33,000 in 2018 (as measured in 2018 dollars) [source](https://www.pewresearch.org/fact-tank/2020/02/07/6-facts-about-economic-inequality-in-the-u-s/). 
 
 9. Sex, the sex variable was also important in the study, as it provided results that was managed to inform the objectives. The data set from kaggle revealed women are paid less than men. To dig in details the data set was enhanced to see is what in happening curently when it comes to gender income gap. The data provided income information about male and female in all USA states. This also confirmed the results of the firts data set that women are paid less than men in all USA states. For example [source](https://blog.dol.gov/2021/03/19/5-facts-about-the-state-of-the-gender-pay-gap#:~:text=Women%20earn%2082%20cents%20for,for%20many%20women%20of%20color) Bureau of Labor Statistics data, in 2020 revealed that women’s yearly earnings were 82.3% of men’s, and the interval is very high when compared to women of color .
 
