@@ -1,7 +1,7 @@
 # USA, Income Distibution Analysis
 
 ![alt text](https://github.com/petergeorge649/US-Income-Distribution/blob/main/png/map.png)
-       𝒫𝒾𝒸𝓉𝓊𝓇𝑒 𝓈𝑜𝓊𝓇𝒸𝑒:𝓐𝓲𝓻 𝓟𝓪𝓷𝓸
+    𝓣𝓱𝓮 𝓶𝓪𝓹 𝓼𝓱𝓸𝔀𝓼 𝓹𝓮𝓸𝓹𝓵𝓮 𝔀𝓱𝓸 𝓮𝓪𝓻𝓷𝓼 𝓲𝓷𝓬𝓸𝓶𝓮 𝓪𝓫𝓸𝓿𝓮 50𝓴 𝓪𝓷𝓷𝓾𝓪𝓵𝓵𝔂 𝓲𝓷 𝓽𝓱𝓮 𝓤𝓢 𝓫𝓪𝓼𝓮𝓭 𝓸𝓷 𝓽𝓱𝓮 𝓷𝓪𝓽𝓲𝓿𝓮 𝓬𝓸𝓾𝓷𝓽𝓻𝔂.
       
 ## **Exploring, Wrangling, Visualisation and Analysis of USA Income Distribution Data.**
 
@@ -27,7 +27,7 @@
 ## Project Outline
 The project is about predicting people's income above 50k annually in the USA. Observation was mainly from people with different working class, education, education numbers attended,race,marital status, occupation, relationship, sex, capital gain, capital loss, native country, hours per week. The project started by importing the data.Logistic regression and Decision tree regression was used for the prediction. Tableau, seaborn, matplotlib,pywedge, was used for the visualization.
 
-![alt text]()
+![alt text](https://github.com/petergeorge649/US-Income-Distribution/blob/main/png/Peter.png)
 
 ## Objectives
 1. Can features predict if someone earns annual Income of above 50k?
@@ -49,10 +49,10 @@ continuous.
 ![alt text]()
 
    **Race**, The study revealed that there is huge income gap based on race. From the study the data exposed that whites rae paid relative higher compare to other races.While blacks and other races income is at the bottom. The findings are also confirmed by other studies.For example Pew research center in 2020 showed that, the black-white income gap in the US is relative higher and remained that way for sometime now, and the income gap continues to grow further. For example, $23,800 in 1970 to around $33,000 in 2018 (as measured in 2018 dollars) [source](https://www.pewresearch.org/fact-tank/2020/02/07/6-facts-about-economic-inequality-in-the-u-s/). 
-   ![alt text]()
+   ![alt text](https://github.com/petergeorge649/US-Income-Distribution/blob/main/png/race%20.png)
 
   **Sex**, the sex variable was also important in the study, as it provided results that was managed to inform the objectives. The data set from kaggle revealed women are paid less than men. To dig in details the data set was enhanced to see is what in happening curently when it comes to gender income gap. The data provided income information about male and female in all USA states. This also confirmed the results of the firts data set that women are paid less than men in all USA states. For example [source](https://blog.dol.gov/2021/03/19/5-facts-about-the-state-of-the-gender-pay-gap#:~:text=Women%20earn%2082%20cents%20for,for%20many%20women%20of%20color) Bureau of Labor Statistics data, in 2020 revealed that women’s yearly earnings were 82.3% of men’s, and the interval is very high when compared to women of color . Also **Relationship** revealed that husband earn more 50k annually than the rest others were wife , own-child, Not-in-family, Other-relative, Unmarried.
-  ![alt text]()
+  ![alt text](https://github.com/petergeorge649/US-Income-Distribution/blob/main/png/Screen%20Shot%202021-05-20%20at%209.52.55%20PM.png)
 
 **Capital-gain** and **Capital-loss** were also important variables in the study.**Hours-per-week** many individuals who work 40 hours confirmed to be earning more than 50k annaully than the rest.
 
@@ -66,7 +66,7 @@ The data was mainly obtained from Kaggle, however the data set was enhanced from
 
 ## Visualization
 Tableau,Matplolib Pywedge and Plotly provided assitance in plotting charts and get some insights from them.The relationship between different variables were revealed by visualization. The detailed investigation in this research was aided by visualization , for example identifying the income gaps, obtain income relationships in working class, education, education numbers attended,race,marital status, occupation, relationship, sex, capital gain, capital loss, native country, hours per week. 
-![alt text](https://public.tableau.com/profile/peter.george.ngugulu#!/vizhome/Income_16213356544040/Dashboard1)
+![alt text]()
 
 Tableau visualization for this project can be found under this link;
 
