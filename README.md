@@ -62,8 +62,7 @@ Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried.
 8.Race
 White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black.
 
-9.Sex
-Female, Male.
+9.Sex, the sex variable was also important in the study, as it provided results that was managed to inform the objectives. The data set from kaggle revealed women are paid less than men. To dig in details the data set was enhanced to see is what in happening curently when it comes to gender income gap. The data provided income information about male and female in all USA states. This also confirmed the results of the firts data set that women are paid less than men in all USA states. For example [source](https://blog.dol.gov/2021/03/19/5-facts-about-the-state-of-the-gender-pay-gap#:~:text=Women%20earn%2082%20cents%20for,for%20many%20women%20of%20color) Bureau of Labor Statistics data, in 2020 revealed that women’s yearly earnings were 82.3% of men’s, and the interval is very high when compared to women of color .
 
 10.Capital-gain
 continuous.
@@ -81,12 +80,9 @@ United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam
 This is binary dependent variable which has 0 and 1 in a column.
 
 # Data
-The data was mainly obtained from Kaggle, however the data set was enhanced from other different sources.For example 
-
-# Database
-Investigating the data given and considering approximately how to interface it together, we use an ERD for how we needed our database to see and act. Utilizing MySQL, we made a modern pattern, and imported the CSV record from the  Python Jupyter notebook  which enabled us to go further with analysis.
-
-# Visualisation
+The data was mainly obtained from Kaggle, however the data set was enhanced from other different sources, for example department of labour.The enhanced data set provided insights on what is happening recently. As the one from Kaggle is a historical data set. Such data sets includes household income data set, Education and income data set and poverty income data set. The data folder can be explored from the following link [link](https://teara.govt.nz/en/income-and-wealth-distribution/page-4). 
+Investigating the data given and considering approximately how to interface it together,
+# Visualization
 Tableau,Matplolib Pywedge and Plotly provided assitance in plottin charts and get some insights from it.
 ![alt text](https://public.tableau.com/profile/peter.george.ngugulu#!/vizhome/Income_16213356544040/Dashboard1)
 
