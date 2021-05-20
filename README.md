@@ -27,6 +27,8 @@ Exploring, Wrangling, Visualisation and Analysis of USA Income Distribution Data
 *[Conclusion](#conclusion)
 
 # Project Outline
+The project is about predicting people's income above 50k annually in the USA.Observation was mainly from people with different working class, education, education numbers attended,race,marital status, occupation, relationship, sex, capital gain, capital loss, native country, hours per week. The project started by importing the data from USA Labour Bufor labour bu
+
 The project started by building a model that will predict the price of a house based on features provided in the dataset. The characteristics of the houses was also shown using some business intelligence tool such as Tableau. Some of iteretsing questions were answered through the assist of SQL in understanding the data challenge.
 
 ![alt text](https://github.com/petergeorge649/US-Income-Distribution/blob/main/png/Peter.png)
