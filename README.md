@@ -36,8 +36,11 @@ The project started by building a model that will predict the price of a house b
 # Scenario
 You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
 
-# Objective
-To build a model that will predict the price of a house based on features provided in the dataset. Senior management also wants to explore the characteristics of the houses using some business intelligence tools. One of those parameters includes understanding which factors are responsible for higher property value - $650K and above.
+# Objectives
+1. Can features predict if someone earns annual Income of above 50k?
+2. Is number of male and female equally earns above 50k?
+3. What is the income differences between races?
+
 
 # Variables-description
 
