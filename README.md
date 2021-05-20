@@ -9,14 +9,21 @@
 
 # Contents
 
--[Project Outline](#project-outline)
--[Scenario](#scenario)
--[Objective](#objective)
--[Variables-description](#variables-description)
--[Data](#data)
--[Database](#database)
--[Visualisation](#visualisation)
--[Conclusion](#conclusion)
+*[Project Outline](#project-outline)
+
+*[Scenario](#scenario)
+
+*[Objective](#objective)
+
+*[Variables-description](#variables-description)
+
+*[Data](#data)
+
+*[Database](#database)
+
+*[Visualisation](#visualisation)
+
+*[Conclusion](#conclusion)
 
 # Project Outline
 The project is about predicting people's income above 50k annually in the USA.Observation was mainly from people with different working class, education, education numbers attended,race,marital status, occupation, relationship, sex, capital gain, capital loss, native country, hours per week. The project started by importing the data.Logistic regression and Decision tree regression was used for the prediction.
