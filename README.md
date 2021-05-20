@@ -36,10 +36,9 @@ The project is about predicting people's income above 50k annually in the USA.Ob
 3. What is the income differences between races?
 
 
-# Variables-description
+# Variables
 
-1.Age
-continuous.
+1.## Age
 
 2.Workclass
 Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
