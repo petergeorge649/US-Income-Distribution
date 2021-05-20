@@ -3,26 +3,23 @@
 ![alt text]()
        𝒫𝒾𝒸𝓉𝓊𝓇𝑒 𝓈𝑜𝓊𝓇𝒸𝑒:𝓐𝓲𝓻 𝓟𝓪𝓷𝓸
       
-# Exploring, Wrangling, Visualisation and Analysis of USA Income Distribution Data.
+# **Exploring, Wrangling, Visualisation and Analysis of USA Income Distribution Data.**
 
-# Contents
-[Introduction](#introduction)
+# **Contents**
 
-[Project Outline](#project-outline)
+**[Introduction](#introduction)**
 
-[Scenario](#scenario)
+**[Project Outline](#project-outline)**
 
-[Objective](#objective)
+**[Objective](#objective)**
 
-[Variables-description](#variables-description)
+**[Variables-description](#variables-description)**
 
-[Data](#data)
+**[Data](#data)**
 
-[Database](#database)
+**[Visualisation](#visualisation)**
 
-[Visualisation](#visualisation)
-
-[Conclusion](#conclusion)
+**[Conclusion](#conclusion)**
 
 # Introduction
 
