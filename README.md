@@ -6,7 +6,7 @@
 # Exploring, Wrangling, Visualisation and Analysis of USA Income Distribution Data.
 
 # Contents
-*[Project Outline](#project-outline)
+*[Introduction](#introduction)
 
 *[Project Outline](#project-outline)
 
@@ -28,7 +28,7 @@
 
 
 # Project Outline
-The project is about predicting people's income above 50k annually in the USA.Observation was mainly from people with different working class, education, education numbers attended,race,marital status, occupation, relationship, sex, capital gain, capital loss, native country, hours per week. The project started by importing the data.Logistic regression and Decision tree regression was used for the prediction.
+The project is about predicting people's income above 50k annually in the USA. Observation was mainly from people with different working class, education, education numbers attended,race,marital status, occupation, relationship, sex, capital gain, capital loss, native country, hours per week. The project started by importing the data.Logistic regression and Decision tree regression was used for the prediction.
 
 ![alt text](https://github.com/petergeorge649/US-Income-Distribution/blob/main/png/Peter.png)
 
@@ -83,7 +83,7 @@ This is binary dependent variable which has 0 and 1 in a column.
 The data was mainly obtained from Kaggle, however the data set was enhanced from other different sources, for example department of labour.The enhanced data set provided insights on what is happening recently. As the one from Kaggle is a historical data set. Such data sets includes household income data set, Education and income data set and poverty income data set. The data folder can be explored from the following link [link](https://teara.govt.nz/en/income-and-wealth-distribution/page-4). 
 Investigating the data given and considering approximately how to interface it together,
 # Visualization
-Tableau,Matplolib Pywedge and Plotly provided assitance in plottin charts and get some insights from it.
+Tableau,Matplolib Pywedge and Plotly provided assitance in plotting charts and get some insights from them.The relationship between different variables were revealed by visualization. The detailed investigation in this research was aided by visualization , for example identifying the income gaps, obtain income relationships in working class, education, education numbers attended,race,marital status, occupation, relationship, sex, capital gain, capital loss, native country, hours per week. 
 ![alt text](https://public.tableau.com/profile/peter.george.ngugulu#!/vizhome/Income_16213356544040/Dashboard1)
 
 Tableau visualization for this project can be found under this link;
@@ -91,9 +91,14 @@ Tableau visualization for this project can be found under this link;
 [link to tableau](https://public.tableau.com/profile/peter.george.ngugulu#!/vizhome/Income_16213356544040/Dashboard1)
 
 # Conclusion
-Python was used to clean and sent out a few datasets. Utilizing the data at that point built a machine learning and use MySQL to meet our numerous objectives. As the data given was moderately straight forward, we had parcels of time to test with the visualisations in Scene through the use of Tableau , making a collection of outwardly engaging dashboards that offer curiously understanding.
+Logistic regression and Decision tree models helped to solve the classification problem. Confusion matrix Python was used to check the accurancy of the model.Confusion matrixwas useful since it gives direct comparisons of values such as True Positives, False Positives, True Negatives and False Negatives.Because the data was imbalanced SMOTE (Synthetic Minority Over-sampling Technique) was applied to get the rid of the imbalanced data. Furthermore,ROC (Receiver operating characteristic) was applied to check the accuracy of the model. 
 
 # References
+Data
+Image
+Code
+Tableau
+
 
 
 
