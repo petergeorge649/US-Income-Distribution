@@ -1,4 +1,4 @@
-# USA, Income Distibution Analysis
+# Income Prediction Analysis the Case of USA
 
 ![alt text](https://github.com/petergeorge649/US-Income-Distribution/blob/main/png/map.png)
     𝓣𝓱𝓮 𝓶𝓪𝓹 𝓼𝓱𝓸𝔀𝓼 𝓹𝓮𝓸𝓹𝓵𝓮 𝔀𝓱𝓸 𝓮𝓪𝓻𝓷𝓼 𝓲𝓷𝓬𝓸𝓶𝓮 𝓪𝓫𝓸𝓿𝓮 50𝓴 𝓪𝓷𝓷𝓾𝓪𝓵𝓵𝔂 𝓲𝓷 𝓽𝓱𝓮 𝓤𝓢 𝓫𝓪𝓼𝓮𝓭 𝓸𝓷 𝓽𝓱𝓮 𝓷𝓪𝓽𝓲𝓿𝓮 𝓬𝓸𝓾𝓷𝓽𝓻𝔂.
