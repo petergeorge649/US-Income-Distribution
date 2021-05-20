@@ -81,7 +81,7 @@ United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam
 This is binary dependent variable which has 0 and 1 in a column.
 
 # Data
-The data was obtained from Kaggle with 
+The data was mainly obtained from Kaggle, however the data set was enhanced from other different sources.For example 
 
 # Database
 Investigating the data given and considering approximately how to interface it together, we use an ERD for how we needed our database to see and act. Utilizing MySQL, we made a modern pattern, and imported the CSV record from the  Python Jupyter notebook  which enabled us to go further with analysis.
