@@ -6,23 +6,23 @@
 # Exploring, Wrangling, Visualisation and Analysis of USA Income Distribution Data.
 
 # Contents
-*[Introduction](#introduction)
+[Introduction](#introduction)
 
-*[Project Outline](#project-outline)
+[Project Outline](#project-outline)
 
-*[Scenario](#scenario)
+[Scenario](#scenario)
 
-*[Objective](#objective)
+[Objective](#objective)
 
-*[Variables-description](#variables-description)
+[Variables-description](#variables-description)
 
-*[Data](#data)
+[Data](#data)
 
-*[Database](#database)
+[Database](#database)
 
-*[Visualisation](#visualisation)
+[Visualisation](#visualisation)
 
-*[Conclusion](#conclusion)
+[Conclusion](#conclusion)
 
 # Introduction
 
