@@ -43,10 +43,8 @@ The project is about predicting people's income above 50k annually in the USA. O
 
  **Workclass**,private, seems to be receaving high income, in this case 50k usd annually. While **Education**, the study also revealed the higher the education the higher the income the work class is divided into Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th,10th, Doctorate, 5th-6th, Preschool.Education-num
 continuous.
-![alt text]()
 
   **Marital-status** Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse.**Occupation** Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces.
-![alt text]()
 
    **Race**, The study revealed that there is huge income gap based on race. From the study the data exposed that whites rae paid relative higher compare to other races.While blacks and other races income is at the bottom. The findings are also confirmed by other studies.For example Pew research center in 2020 showed that, the black-white income gap in the US is relative higher and remained that way for sometime now, and the income gap continues to grow further. For example, $23,800 in 1970 to around $33,000 in 2018 (as measured in 2018 dollars) [source](https://www.pewresearch.org/fact-tank/2020/02/07/6-facts-about-economic-inequality-in-the-u-s/). 
    ![alt text](https://github.com/petergeorge649/US-Income-Distribution/blob/main/png/race.png)
@@ -56,7 +54,6 @@ continuous.
 **Capital-gain** and **Capital-loss** were also important variables in the study.**Hours-per-week** many individuals who work 40 hours confirmed to be earning more than 50k annaully than the rest.
 
 **Native-country** United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
-![alt text]()
 
 **Income >50K** This is binary dependent variable which has 0 and 1 in a column. That means individuals labeled 0 yearly earning income below 50k usd while 1 indicates a person is earning above 50k usd annually.This variable posed as dependent variable. It depends on other features such as working class, education, education numbers attended,race,marital status, occupation, relationship, sex, capital gain, capital loss, native country, hours per week. It's classification problem on the data set, made to opt for the logistic regression and decision tree.
 
