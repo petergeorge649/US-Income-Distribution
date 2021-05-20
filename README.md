@@ -2,12 +2,13 @@
 
 ## USA, Income Distibution Analysis
 
-![alt text](https://github.com/Bunmi-Haastrup/Hermione-granger/blob/main/image.png)
+![alt text]()
        𝒫𝒾𝒸𝓉𝓊𝓇𝑒 𝓈𝑜𝓊𝓇𝒸𝑒:𝐿𝒶𝓃𝑔𝒶𝓃.𝒸𝑜𝓂, 𝑀𝒶𝓅 𝓈𝑜𝓊𝓇𝒸𝑒: 𝒯𝒶𝒷𝓁𝑒𝒶𝓊
       
 # Exploring, Wrangling, Visualisation and Analysis of USA Income Distribution Data.
 
 # Contents
+*[Project Outline](#project-outline)
 
 *[Project Outline](#project-outline)
 
@@ -25,6 +26,9 @@
 
 *[Conclusion](#conclusion)
 
+# Introduction
+
+
 # Project Outline
 The project is about predicting people's income above 50k annually in the USA.Observation was mainly from people with different working class, education, education numbers attended,race,marital status, occupation, relationship, sex, capital gain, capital loss, native country, hours per week. The project started by importing the data.Logistic regression and Decision tree regression was used for the prediction.
 
@@ -38,12 +42,11 @@ The project is about predicting people's income above 50k annually in the USA.Ob
 
 # Variables
 
-1.## Age
+1. Age, as one among independent variables. Age has provided insights on how age it is important factor when it comes to to income.The data set revealed intially the higher the age the higher the income on this case it was above 50k annually . However after some time in mid 50's majority their annual income begins to drop drastically.In other words it can be said the low income (below 50k annually) were mainly teenagers and older people. The results can be also be confirmed by other similar studies. For example, a study in Newzeland also confirmed low income are mostly teenagers and people who are in early 20s.The main reason stated was education or school training. The same study confirmed in Newzeland without superannuation priviledge, some older individuals would have been facing income challenges [source](https://teara.govt.nz/en/income-and-wealth-distribution/page-4).
 
-2.Workclass
-Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
+2.Workclass, private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
 
-3.Education
+3.Education, the study also revealed the higher the education the higher the income 
 Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool.
 
 4.Education-num
@@ -95,6 +98,8 @@ Tableau visualization for this project can be found under this link;
 
 # Conclusion
 Python was used to clean and sent out a few datasets. Utilizing the data at that point built a machine learning and use MySQL to meet our numerous objectives. As the data given was moderately straight forward, we had parcels of time to test with the visualisations in Scene through the use of Tableau , making a collection of outwardly engaging dashboards that offer curiously understanding.
+
+# References
 
 
 
