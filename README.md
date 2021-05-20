@@ -1,11 +1,11 @@
 # USA, Income Distibution Analysis
 
-![alt text]()
+![alt text](https://github.com/petergeorge649/US-Income-Distribution/blob/main/png/USA.jpeg)
        𝒫𝒾𝒸𝓉𝓊𝓇𝑒 𝓈𝑜𝓊𝓇𝒸𝑒:𝓐𝓲𝓻 𝓟𝓪𝓷𝓸
       
-# **Exploring, Wrangling, Visualisation and Analysis of USA Income Distribution Data.**
+## **Exploring, Wrangling, Visualisation and Analysis of USA Income Distribution Data.**
 
-# **Contents**
+## **Contents**
 
 **[Introduction](#introduction)**
 
@@ -21,21 +21,21 @@
 
 **[Conclusion](#conclusion)**
 
-# Introduction
+## Introduction
 
 
-# Project Outline
+## Project Outline
 The project is about predicting people's income above 50k annually in the USA. Observation was mainly from people with different working class, education, education numbers attended,race,marital status, occupation, relationship, sex, capital gain, capital loss, native country, hours per week. The project started by importing the data.Logistic regression and Decision tree regression was used for the prediction. Tableau, seaborn, matplotlib,pywedge, was used for the visualization.
 
 ![alt text](https://github.com/petergeorge649/US-Income-Distribution/blob/main/png/Peter.png)
 
-# Objectives
+## Objectives
 1. Can features predict if someone earns annual Income of above 50k?
 2. Is number of male and female equally earns above 50k?
 3. What is the income differences between races?
 
 
-# Variables
+## Variables
 
  **Age**, as one among independent variables. Age has provided insights on how age it is important factor when it comes to to income.The data set revealed intially the higher the age the higher the income on this case it was above 50k annually . However after some time in mid 50's majority their annual income begins to drop drastically.In other words it can be said the low income (below 50k annually) were mainly teenagers and older people. The results can be also be confirmed by other similar studies. For example, a study in Newzeland also confirmed low income are mostly teenagers and people who are in early 20s.The main reason stated was education or school training. The same study confirmed in Newzeland without superannuation priviledge, some older individuals would have been facing income challenges [source](https://teara.govt.nz/en/income-and-wealth-distribution/page-4).
 
@@ -55,10 +55,10 @@ continuous.
 
 **Income >50K** This is binary dependent variable which has 0 and 1 in a column. That means individuals labeled 0 yearly earning income below 50k usd while 1 indicates a person is earning above 50k usd annually.This variable posed as dependent variable. It depends on other features such as working class, education, education numbers attended,race,marital status, occupation, relationship, sex, capital gain, capital loss, native country, hours per week. It's classification problem on the data set, made to opt for the logistic regression and decision tree.
 
-# Data
+## Data
 The data was mainly obtained from Kaggle, however the data set was enhanced from other different sources, for example department of labour.The enhanced data set provided insights on what is happening recently. As the one from Kaggle is a historical data set. Such data sets includes household income data set, Education and income data set and poverty income data set. The data folder can be explored from the following link [link](https://teara.govt.nz/en/income-and-wealth-distribution/page-4). 
 
-# Visualization
+## Visualization
 Tableau,Matplolib Pywedge and Plotly provided assitance in plotting charts and get some insights from them.The relationship between different variables were revealed by visualization. The detailed investigation in this research was aided by visualization , for example identifying the income gaps, obtain income relationships in working class, education, education numbers attended,race,marital status, occupation, relationship, sex, capital gain, capital loss, native country, hours per week. 
 ![alt text](https://public.tableau.com/profile/peter.george.ngugulu#!/vizhome/Income_16213356544040/Dashboard1)
 
@@ -66,10 +66,10 @@ Tableau visualization for this project can be found under this link;
 
 [link to tableau](https://public.tableau.com/profile/peter.george.ngugulu#!/vizhome/Income_16213356544040/Dashboard1)
 
-# Conclusion
+## Conclusion
 Logistic regression and Decision tree models helped to solve the classification problem. Confusion matrix Python was used to check the accurancy of the model.Confusion matrixwas useful since it gives direct comparisons of values such as True Positives, False Positives, True Negatives and False Negatives.Because the data was imbalanced SMOTE (Synthetic Minority Over-sampling Technique) was applied to get the rid of the imbalanced data. Furthermore,ROC (Receiver operating characteristic) was applied to check the accuracy of the model. 
 
-# References
+## References
 Data
 Image
 Code
