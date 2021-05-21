@@ -81,7 +81,7 @@ Logistic regression and Decision tree models helped to solve the classification 
 
 **[pywedge charts](https://github.com/petergeorge649/US-Income-Distribution/tree/main/pywedge%20charts)**
 
-**[powerpoint](https://github.com/petergeorge649/US-Income-Prediction/tree/main/Powerpoint)
+**[powerpoint](https://github.com/petergeorge649/US-Income-Prediction/tree/main/Powerpoint)**
 
 
 
