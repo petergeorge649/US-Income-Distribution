@@ -72,6 +72,7 @@ Tableau,Matplolib,Pywedge and Plotly provided assitance in plotting charts and g
 Logistic regression and Decision tree models helped to solve the classification problem. Confusion matrix Python was used to check the accurancy of the model.Confusion matrix useful since it gives direct comparisons of values such as True Positives, False Positives, True Negatives and False Negatives.Because the data was imbalanced SMOTE (Synthetic Minority Over-sampling Technique) was applied to get the rid of the imbalanced data. Furthermore,ROC (Receiver operating characteristic) was applied to check the accuracy of the model. 
 
 ## References
+
 **[csv](https://github.com/petergeorge649/US-Income-Distribution/tree/main/csv)**
 
 **[png](https://github.com/petergeorge649/US-Income-Distribution/tree/main/png)**
@@ -79,6 +80,8 @@ Logistic regression and Decision tree models helped to solve the classification 
 **[code](https://github.com/petergeorge649/US-Income-Distribution/tree/main/code)**
 
 **[pywedge charts](https://github.com/petergeorge649/US-Income-Distribution/tree/main/pywedge%20charts)**
+
+**[powerpoint](https://github.com/petergeorge649/US-Income-Prediction/tree/main/Powerpoint)
 
 
 
