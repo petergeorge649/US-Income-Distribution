@@ -35,7 +35,9 @@ The project is about predicting people's income above 50k annually in the USA. T
 
 ## Variables
 
- **Age**, as one among independent variables. Age has provided insights on how age it is important factor when it comes to income.The data set revealed intially the higher the age the higher the income on this case it was above 50k annually . However after some time in mid 50's majority their annual income begins to drop drastically.In other words it can be said the low income (below 50k annually) were mainly teenagers and older people. The results can be also be confirmed by other similar studies. For example, a study in Newzeland also confirmed low income are mostly teenagers and people who are in early 20s.The main reason stated was education or school training. The same study confirmed in Newzeland without superannuation priviledge, some older individuals would have been facing income challenges [source](https://teara.govt.nz/en/income-and-wealth-distribution/page-4).The following shows the snapshot of the findings;
+ **Age**, as one among independent variables. Age has provided insights on how age it is important factor when it comes to income.The data set revealed intially the higher the age the higher the income on this case it was above 50k annually . However after some time in mid 50's majority their annual income begins to drop drastically.In other words it can be said the low income (below 50k annually) were mainly teenagers and older people. The results can be also be confirmed by other similar studies. For example, a study in Newzeland also confirmed low income are mostly teenagers and people who are in early 20s.The main reason stated was education or school training. The same study confirmed in Newzeland without superannuation priviledge, some older individuals would have been facing income challenges [source](https://teara.govt.nz/en/income-and-wealth-distribution/page-4).
+ 
+ The following shows the snapshot of the findings;
  
 ![alt text](https://github.com/petergeorge649/US-Income-Distribution/blob/main/png/age..png)
 
