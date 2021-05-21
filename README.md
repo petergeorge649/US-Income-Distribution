@@ -39,7 +39,7 @@ The project is about predicting people's income above 50k annually in the USA. O
  
 ![alt text](https://github.com/petergeorge649/US-Income-Distribution/blob/main/png/age..png)
 
-**Workclass**,private, seems to be receaving high income, in this case 50k usd annually. While **Education**, the study also revealed the higher the education the higher the income the work class is divided into Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th,10th, Doctorate, 5th-6th, Preschool.Education-num
+**Workclass**,private, seems to be receaving high income, in this case 50k usd annually. While **Education**, the study also revealed the higher the education the higher the income the work class is divided into Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th,10th, Doctorate, 5th-6th, Preschool,Education-num.
 
 
 **Marital-status** Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse.**Occupation** Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces.
