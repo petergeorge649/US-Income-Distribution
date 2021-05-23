@@ -15,9 +15,11 @@
 
 **[Data](#data)**
 
-**[Visualisation](#visualisation)**
+**[Visualization](#visualisation)**
 
 **[Conclusion](#conclusion)**
+
+**[References](#references)**
 
 ## Introduction
 Income inequality proven to be a problem among many countries in the world. According to Norwitch University ***income inequality in developing countries is decreasing, while developed countries have seen an increase in income discrepancies within the past several decades*** [source](https://online.norwich.edu/academic-programs/resources/global-economic-inequality%E2%80%93and-what-might-be-done-about-it#:~:text=Even%20though%20income%20inequality%20in,%2410%2C000%20USD%20in%20total%20wealth). Hence, given the problem stated USA is chosen as a case study to study the income gap problems using machine learning.
