@@ -9,7 +9,7 @@
 
 **[Project Outline](#project-outline)**
 
-**[Objective](#objective)**
+**[Objectives](#objectives)**
 
 **[Variables](#variables)**
 
